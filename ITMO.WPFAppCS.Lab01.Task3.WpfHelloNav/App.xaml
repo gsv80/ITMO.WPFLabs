@@ -1,0 +1,9 @@
+﻿<Application x:Class="ITMO.WPFAppCS.Lab01.Task3.WpfHelloNav.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ITMO.WPFAppCS.Lab01.Task3.WpfHelloNav"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

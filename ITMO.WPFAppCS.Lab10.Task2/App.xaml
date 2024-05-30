@@ -1,0 +1,12 @@
+﻿<Application x:Class="ITMO.WPFAppCS.Lab10.Task2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ITMO.WPFAppCS.Lab10.Task2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <RadialGradientBrush x:Key="WindowBack">
+            <GradientStop Color="LightSteelBlue" Offset="0"/>
+            <GradientStop Color="CadetBlue" Offset="1"/>
+        </RadialGradientBrush>
+    </Application.Resources>
+</Application>
